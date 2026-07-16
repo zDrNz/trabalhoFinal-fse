@@ -2,7 +2,7 @@
 
 Réplica acadêmica simplificada do **Nest Learning Thermostat**, desenvolvida com **ESP32** para a disciplina de Fundamentos de Sistemas Embarcados (2026/1).
 
-> 🎥 **Vídeo de demonstração:** *(cole aqui o link do vídeo do YouTube)*
+> 🎥 **Vídeo de demonstração:** https://youtu.be/A4VnaPbbhLk
 
 ## 1. Descrição do Produto
 
